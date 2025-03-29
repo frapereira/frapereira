@@ -1,10 +1,8 @@
 ## Olá! conheçam um pouco mais do meu perfil 👋
 
 
-**frapereira/frapereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-🔭 Atualmente estou trabalhando como freelancer
-🌱 Estou me aprofudando mais em alguns frameworks
+-🔭 Atualmente estou trabalhando como freelancer
+-🌱 Estou me aprofudando mais em alguns frameworks
 
 ## Olá! sou Francisco Pereira
  🧑‍💻Desenvolvedor Front End
