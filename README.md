@@ -1,14 +1,11 @@
-## Olá! conheçam um pouco mais do meu perfil 👋
+## Olá! conhecam um pouco mais do meu perfil 👋
 
+🧑‍💻Desenvolvedor Front End
 
 🔭 Atualmente estou trabalhando como freelancer
 
 🌱 Estou me aprofudando mais em alguns frameworks
 
-## Olá! sou Francisco Pereira
- 🧑‍💻Desenvolvedor Front End
- 
- 
   <div>
     <a href="https://github.com/frapereira">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=frapereira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
