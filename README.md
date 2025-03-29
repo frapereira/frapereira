@@ -1,8 +1,9 @@
 ## Olá! conheçam um pouco mais do meu perfil 👋
 
 
--🔭 Atualmente estou trabalhando como freelancer
--🌱 Estou me aprofudando mais em alguns frameworks
+🔭 Atualmente estou trabalhando como freelancer
+
+🌱 Estou me aprofudando mais em alguns frameworks
 
 ## Olá! sou Francisco Pereira
  🧑‍💻Desenvolvedor Front End
