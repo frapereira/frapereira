@@ -1,4 +1,4 @@
-## Olá! conhecam um pouco mais do meu perfil 👋
+## Olá! sejam bem vindo ao meu perfil! 👋
 
 🧑‍💻Desenvolvedor Front End
 
